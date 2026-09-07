@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=210&section=header&text=Muhammad%20Dihya%20Ramdhan&fontSize=38&fontAlignY=40&desc=Software%20Engineer%20%7C%20Fullstack%20Web%20Developer&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mdr25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&width=500&lines=Software+Engineer;Fullstack+Web+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=200&section=header&text=Muhammad%20Dihya%20Ramdhan&fontSize=38&fontAlignY=42&desc=Software%20Engineer&descAlignY=66&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
