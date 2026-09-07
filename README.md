@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=220&section=header&text=Muhammad%20Dihya%20Ramdhan&fontSize=38&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%7C%20React.js%20%26amp%3B%20Laravel&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=210&section=header&text=Muhammad%20Dihya%20Ramdhan&fontSize=38&fontAlignY=40&desc=Software%20Engineer%20%7C%20Fullstack%20Web%20Developer&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/mdr25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Specializing+in+React.js+%26+Laravel;Building+Modern+SaaS+%26+RESTful+APIs;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&width=500&lines=Software+Engineer;Fullstack+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,23 +14,6 @@
   <a href="https://github.com/mdr25"><img src="https://img.shields.io/badge/GitHub-mdr25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-```javascript
-const dihya = {
-  name: "Muhammad Dihya Ramdhan",
-  role: "Fullstack Web Developer",
-  focus: ["Responsive Frontend Interfaces", "Scalable REST APIs", "Database Optimization"],
-  currentStack: ["React.js", "Vite", "Tailwind CSS", "Laravel", "MySQL"],
-  passions: ["SaaS Product Development", "UI/UX Simplicity", "Clean & Maintainable Code"],
-  location: "Indonesia",
-  openFor: ["Full-time Roles", "Contract / Freelance", "Open Source Collaboration"]
-};
-```
-
----
 
 ### 🛠️ Tech Stack & Arsenal
 
