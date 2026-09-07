@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=220&section=header&text=Muhammad%20Dihya%20Ramdhan&fontSize=38&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%7C%20React.js%20%26%20Laravel&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=220&section=header&text=Muhammad%20Dihya%20Ramdhan&fontSize=38&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%7C%20React.js%20%26amp%3B%20Laravel&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
