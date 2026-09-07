@@ -1,59 +1,97 @@
-# Hi there, I'm Muhammad Dihya Ramdhan 👋
-
-A passionate **Fullstack Web Developer** focused on building responsive, scalable, and user-centric web applications.
-Experienced in developing modern frontends with **React.js** and robust backend services with **Laravel**.
-
----
-
-### 🚀 Tech Stack & Tools
-
-- **Frontend:** React.js, Vite, JavaScript (ES6+), Tailwind CSS, Bootstrap
-- **Backend:** PHP, Laravel (REST APIs, Sanctum, Blade)
-- **Databases:** MySQL
-- **Tools & Platforms:** Git, GitHub, Postman, Vercel
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **MasjidKu** | SaaS platform frontend for automated mosque management & site generator | React, Tailwind, Vite |
-[Live Demo](https://masjidku-one.vercel.app) • [Repository](https://github.com/mdr25/masjidku) |
-| **AscSmartEdu** | Multi-role Learning Management System API (Admin, Teacher, Student) | Laravel, Sanctum, MySQL |
-[Repository](https://github.com/mdr25/ascsmartedu) |
-| **BookSales API** | REST API for digital bookstore transactions and catalog management | Laravel, Sanctum |
-[Repository](https://github.com/mdr25/booksales-api-laravel) |
-
----
-
-### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=220&section=header&text=Muhammad%20Dihya%20Ramdhan&fontSize=38&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%7C%20React.js%20%26%20Laravel&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdr25&show_icons=true&theme=tokyonight" alt="Dihya's
-GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr25&layout=compact&theme=tokyonight"
-alt="Top Languages" />
+  <a href="https://github.com/mdr25">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Specializing+in+React.js+%26+Laravel;Building+Modern+SaaS+%26+RESTful+APIs;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:dihyar25@gmail.com"><img src="https://img.shields.io/badge/Gmail-dihyar25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mdr25"><img src="https://img.shields.io/badge/GitHub-mdr25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 👨‍💻 About Me
 
-- **Email:** dihyar25@gmail.com
-- **LinkedIn:** [linkedin.com/in/username-kamu](https://linkedin.com/in/)
+```javascript
+const dihya = {
+  name: "Muhammad Dihya Ramdhan",
+  role: "Fullstack Web Developer",
+  focus: ["Responsive Frontend Interfaces", "Scalable REST APIs", "Database Optimization"],
+  currentStack: ["React.js", "Vite", "Tailwind CSS", "Laravel", "MySQL"],
+  passions: ["SaaS Product Development", "UI/UX Simplicity", "Clean & Maintainable Code"],
+  location: "Indonesia",
+  openFor: ["Full-time Roles", "Contract / Freelance", "Open Source Collaboration"]
+};
+```
 
-<!--
-**mdr25/mdr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Arsenal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <b>Frontend Development</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,bootstrap,html,css&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Backend & Database</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Tools, DevOps & Environment</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+---
+
+### 🌟 Featured Repositories & Projects
+
+| Project | Description | Tech Stack | Status / Links |
+| :--- | :--- | :--- | :--- |
+| <a href="https://github.com/mdr25/masjidku"><b>MasjidKu</b></a> | **SaaS Frontend** for automated mosque administration and instant responsive website generator. | `React` `Vite` `Tailwind` `Vercel` | <a href="https://masjidku-one.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo" /></a> <a href="https://github.com/mdr25/masjidku"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> |
+| <a href="https://github.com/mdr25/ascsmartedu"><b>AscSmartEdu</b></a> | **Multi-Role LMS Backend API** (Admin, Teacher, Student) with attendance, curriculum structuring, and payments. | `Laravel` `PHP` `Sanctum` `MySQL` | <a href="https://github.com/mdr25/ascsmartedu"><img src="https://img.shields.io/badge/REST%20API-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Repo" /></a> |
+| <a href="https://github.com/mdr25/booksales-api-laravel"><b>BookSales API</b></a> | **Digital Bookstore REST API** featuring Sanctum token authentication, transaction checkout, and role authorization. | `Laravel` `PHP` `Sanctum` `Postman` | <a href="https://github.com/mdr25/booksales-api-laravel"><img src="https://img.shields.io/badge/REST%20API-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Repo" /></a> |
+
+---
+
+### 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdr25&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mdr25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdr25&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="55%" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdr25/mdr25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdr25/mdr25/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mdr25/mdr25/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,20&height=100&section=footer" width="100%" alt="Footer Wave" />
+</p>
