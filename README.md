@@ -9,7 +9,7 @@
 </p>
 
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack
 
 <p align="left">
   <b>Frontend Development</b><br/>
