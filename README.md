@@ -8,12 +8,13 @@
   <a href="https://github.com/mdr25"><img src="https://img.shields.io/badge/GitHub-mdr25-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-A developer based in Indonesia passionate about crafting responsive web interfaces and scalable backend services. Focused on building modern web applications with **React.js** and **Laravel**.
+A developer based in Indonesia passionate about crafting responsive web interfaces and scalable backend services. Focused on building modern web applications with **Next.js**, **React.js**, **TypeScript**, and **Laravel**.
 
 ---
 
 ### 🚀 What I'm Working On
 
+- 🏛️ **[CSI EDU](https://github.com/mdr25/csi-edu)** — Architecting an institutional educational quality accelerator & school improvement platform with Next.js 15, bilingual i18n, and interactive program planning tools. *(Deployed on [Vercel ↗](https://csi-edu.vercel.app))*
 - 🕌 **[MasjidKu](https://github.com/mdr25/masjidku)** — Developing a SaaS platform frontend for automated mosque data management and dynamic public website generation. *(Deployed on [Vercel ↗](https://masjidku-one.vercel.app))*
 - 🎓 **[AscSmartEdu API](https://github.com/mdr25/ascsmartedu)** — Engineering a multi-role Learning Management System API (Admin, Teacher, Student) with Laravel Sanctum, attendance tracking, and curriculum structuring.
 - 📚 **[BookSales API](https://github.com/mdr25/booksales-api-laravel)** — Building a digital bookstore RESTful API featuring token authentication, relational database management, and order checkout flows.
@@ -25,7 +26,7 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 <p align="left">
   <b>Frontend:</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,js,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
   </a>
 </p>
 
@@ -46,6 +47,13 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 ---
 
 ### 🌟 Featured Projects
+
+> #### 🏛️ [CSI EDU](https://github.com/mdr25/csi-edu) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://csi-edu.vercel.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdr25/csi-edu)
+> **School Improvement Platform & EdTech Ecosystem**  
+> Platform akselerasi mutu pendidikan komprehensif (CSI Academy, School Reading System, NF Testing Center). Dilengkapi arsitektur bilingual terintegrasi (i18n), simulator interactive program planner, serta performa maksimal berbasis Next.js 15 App Router dan React 19.  
+> **Stack:** `Next.js 15` • `React 19` • `TypeScript` • `Tailwind CSS` • `Vercel`
+
+<br/>
 
 > #### 🕌 [MasjidKu](https://github.com/mdr25/masjidku) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://masjidku-one.vercel.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdr25/masjidku)
 > **SaaS Platform & Website Generator**  
