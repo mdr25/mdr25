@@ -14,8 +14,8 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 
 ### 🚀 What I'm Working On
 
-- 🏛️ **[CSI EDU](https://github.com/mdr25/csi-edu)** — Architecting an institutional educational quality accelerator & school improvement platform with Next.js 15, bilingual i18n, and interactive program planning tools. *(Deployed on [Vercel ↗](https://csi-edu.vercel.app))*
-- 🕌 **[MasjidKu](https://github.com/mdr25/masjidku)** — Developing a SaaS platform frontend for automated mosque data management and dynamic public website generation. *(Deployed on [Vercel ↗](https://masjidku-one.vercel.app))*
+- 🏛️ **[CSI EDU](https://github.com/mdr25/csi-edu)** — Architecting an institutional educational quality accelerator & school improvement platform with Next.js 15, bilingual i18n, and interactive program planning tools. _(Deployed on [Vercel ↗](https://csi-edu.vercel.app))_
+- 🕌 **[MasjidKu](https://github.com/mdr25/masjidku)** — Developing a SaaS platform frontend for automated mosque data management and dynamic public website generation. _(Deployed on [Vercel ↗](https://masjidku-one.vercel.app))_
 - 🎓 **[AscSmartEdu API](https://github.com/mdr25/ascsmartedu)** — Engineering a multi-role Learning Management System API (Admin, Teacher, Student) with Laravel Sanctum, attendance tracking, and curriculum structuring.
 - 📚 **[BookSales API](https://github.com/mdr25/booksales-api-laravel)** — Building a digital bookstore RESTful API featuring token authentication, relational database management, and order checkout flows.
 
@@ -26,7 +26,7 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 <p align="left">
   <b>Frontend:</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,js,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
   </a>
 </p>
 
@@ -49,6 +49,7 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 ### 🌟 Featured Projects
 
 > #### 🏛️ [CSI EDU](https://github.com/mdr25/csi-edu) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://csi-edu.vercel.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdr25/csi-edu)
+>
 > **School Improvement Platform & EdTech Ecosystem**  
 > Platform akselerasi mutu pendidikan komprehensif (CSI Academy, School Reading System, NF Testing Center). Dilengkapi arsitektur bilingual terintegrasi (i18n), simulator interactive program planner, serta performa maksimal berbasis Next.js 15 App Router dan React 19.  
 > **Stack:** `Next.js 15` • `React 19` • `TypeScript` • `Tailwind CSS` • `Vercel`
@@ -56,6 +57,7 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 <br/>
 
 > #### 🕌 [MasjidKu](https://github.com/mdr25/masjidku) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://masjidku-one.vercel.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdr25/masjidku)
+>
 > **SaaS Platform & Website Generator**  
 > Frontend platform otomatisasi manajemen data masjid dan dynamic website generator. Dilengkapi sistem wizard modular, arsitektur state terpusat, dan desain responsif lintas perangkat.  
 > **Stack:** `React 18` • `Vite` • `Tailwind CSS` • `Framer Motion` • `Vercel`
@@ -63,6 +65,7 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 <br/>
 
 > #### 🎓 [AscSmartEdu API](https://github.com/mdr25/ascsmartedu) &nbsp; [![REST API](https://img.shields.io/badge/REST%20API-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdr25/ascsmartedu) [![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square)](https://github.com/mdr25/ascsmartedu)
+>
 > **Multi-Role Learning Management System Platform**  
 > Backend REST API manajemen pembelajaran komprehensif dengan Laravel Sanctum, role-based authorization (Admin, Pengajar, Siswa), tracking absensi, dan data kurikulum akademik.  
 > **Stack:** `Laravel` • `PHP 8` • `MySQL` • `Sanctum Auth` • `RESTful API`
@@ -70,6 +73,7 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 <br/>
 
 > #### 📚 [BookSales Transaction API](https://github.com/mdr25/booksales-api-laravel) &nbsp; [![REST API](https://img.shields.io/badge/REST%20API-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdr25/booksales-api-laravel) [![Auth](https://img.shields.io/badge/Auth-Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/mdr25/booksales-api-laravel)
+>
 > **Digital Bookstore & Checkout Engine**  
 > RESTful API transaksi penjualan buku digital dilengkapi token authentication, eager loading relational database (Authors, Books, Genres), dan pipeline transaksi checkout.  
 > **Stack:** `Laravel` • `PHP` • `MySQL` • `Postman` • `Relational DB`
