@@ -84,11 +84,11 @@ A developer based in Indonesia passionate about crafting responsive web interfac
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mdr25&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mdr25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mdr25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdr25&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css,blade" alt="Languages" width="55%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdr25&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Languages" width="55%" />
 </p>
 
 ---
